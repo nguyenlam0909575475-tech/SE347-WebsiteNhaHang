@@ -151,8 +151,6 @@ VITE_WEB3FORMS_KEY=your-web3forms-access-key
 
 - 📄 [Phân tích kiến trúc & quy trình xây dựng (`docs/WORKFLOW.md`)](docs/WORKFLOW.md)
 - 📄 [Tổng quan Website & Ứng dụng GSAP (`docs/01-TONG-QUAN-WEBSITE-VA-GSAP.md`)](docs/01-TONG-QUAN-WEBSITE-VA-GSAP.md)
-- 📄 [Kịch bản thuyết trình 22 phút (`docs/02-KICH-BAN-TRINH-BAY-22-PHUT.md`)](docs/02-KICH-BAN-TRINH-BAY-22-PHUT.md)
-- 📄 [Flow lý thuyết GSAP & Đồ án dễ hiểu (`docs/03-FLOW-LY-THUYET-GSAP-VA-DO-AN-DE-HIEU.md`)](docs/03-FLOW-LY-THUYET-GSAP-VA-DO-AN-DE-HIEU.md)
 
 ---
 
